@@ -13,4 +13,4 @@ xterm  -e " source devel/setup.bash; roslaunch my_robot view_navigation.launch" 
 sleep 20
 
 # Launch add markers node
-xterm  -e  " source devel/setup.bash; rosrun add_markers add_markers "
+xterm  -e  " source devel/setup.bash; rosrun add_markers add_markers_time "
