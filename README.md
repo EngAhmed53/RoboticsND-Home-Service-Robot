@@ -143,7 +143,7 @@ $ catkin_init_workspace
 
 #### 2. Clone the project in catkin_ws/src/ and move its contents to src/.
 ```sh
-$ git clone https://github.com//RoboticsND-Home-Service-Robot.git
+$ git clon https://github.com/EngAhmed53/RoboticsND-Home-Service-Robot.git
 $ sudo mv RoboticsND-Home-Service-Robot/* ./
 ```
 
